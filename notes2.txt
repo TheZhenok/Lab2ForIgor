@@ -1,0 +1,4 @@
+Message: Hello world!
+Key: 12 13 8 16 10 6 9 11 1 0 5 14 
+Encode text: Dhd|e&~dsla/
+Decode text: Hello world!
